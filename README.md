@@ -1,5 +1,11 @@
-## Hi there 👋
+<div align="center">
 
+# Hi 👋 I'm Muhr
+
+**Founder of [Muhr Industries](https://muhrindustries.com)**  
+Building software that simplifies — and works.
+
+</div>
 <!--
 **jona1502/jona1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
