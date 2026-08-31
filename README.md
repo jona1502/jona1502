@@ -17,6 +17,14 @@ My focus is on turning ideas into polished, scalable products — from the first
 
 ---
 
+## Connect
+
+- 🌐 Website: [muhrindustries.com](https://muhrindustries.com)
+- 💼 GitHub: [**@DEIN-GITHUB**](https://github.com/jona1502)
+- 🔗 LinkedIn: ...
+- 📸 Instagram: ...
+
+---
 
 <!--
 **jona1502/jona1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
