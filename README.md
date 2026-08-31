@@ -1,11 +1,23 @@
 <div align="center">
 
-# Hi 👋 I'm Muhr
+# Hi 👋 I'm Jona
 
 **Founder of [Muhr Industries](https://muhrindustries.com)**  
 Building software that simplifies — and works.
 
 </div>
+
+---
+
+## About Me
+
+I'm the founder of **[Muhr Industries](https://muhrindustries.com)**, where I build modern software products, SaaS platforms, AI-powered applications, and custom digital solutions.
+
+My focus is on turning ideas into polished, scalable products — from the first concept and UI/UX to development, infrastructure, and launch.
+
+---
+
+
 <!--
 **jona1502/jona1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
