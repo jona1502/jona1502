@@ -7,7 +7,6 @@ Building software that simplifies — and works.
 
 </div>
 
----
 
 ## About Me
 
@@ -15,7 +14,6 @@ I'm the founder of **[Muhr Industries](https://muhrindustries.com)**, where I bu
 
 My focus is on turning ideas into polished, scalable products — from the first concept and UI/UX to development, infrastructure, and launch.
 
----
 
 ## Connect
 
@@ -24,7 +22,6 @@ My focus is on turning ideas into polished, scalable products — from the first
 - 🔗 LinkedIn: ...
 - 📸 Instagram: ...
 
----
 
 <!--
 **jona1502/jona1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
