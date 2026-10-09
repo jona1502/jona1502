@@ -20,7 +20,6 @@ My focus is on turning ideas into polished, scalable products — from the first
 - 🌐 Website: [muhrindustries.com](https://muhrindustries.com)
 - 💼 GitHub: [**@jona1502**](https://github.com/jona1502)
 - 🔗 LinkedIn: ...
-- 📸 Instagram: ...
 
 
 <!--
