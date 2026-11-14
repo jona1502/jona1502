@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi 👋 I'm Jona
-
 **Founder of [Muhr Industries](https://muhrindustries.com)**  
 Building software that simplifies — and works.
 
