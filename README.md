@@ -5,14 +5,6 @@ Building software that simplifies — and works.
 
 </div>
 
-
-## About Me
-
-I'm the founder of **[Muhr Industries](https://muhrindustries.com)**, where I build modern software products, SaaS platforms, AI-powered applications, and custom digital solutions.
-
-My focus is on turning ideas into polished, scalable products — from the first concept and UI/UX to development, infrastructure, and launch.
-
-
 ## Connect
 
 - 🌐 Website: [muhrindustries.com](https://muhrindustries.com)
